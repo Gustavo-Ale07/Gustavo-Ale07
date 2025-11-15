@@ -30,9 +30,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gustavo-Ale07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img style="max-width: 500px; width: 100%;" src="https://spotify-recently-played-readme.vercel.app/api?user=31y7bdjjc4ykz5modeqxumfivm2e&unique=true&count=1" alt="Spotify Recently Played - Last Track" />
 </div>
-
 ###
 
 <div align="center">
