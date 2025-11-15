@@ -30,8 +30,9 @@
 ###
 
 <div align="center">
-  <img style="max-width: 500px; width: 100%;" src="https://spotify-recently-played-readme.vercel.app/api?user=31y7bdjjc4ykz5modeqxumfivm2e&unique=true&count=1" alt="Spotify Recently Played - Last Track" />
+  <img src="https://streak-stats.demolab.com?user=Gustavo-Ale07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
+
 ###
 
 <div align="center">
@@ -41,11 +42,11 @@
 ###
 
 <div align="center">
-  <img style="width: 100%;" src="https://spotify-recently-played-readme.vercel.app/api?user=31y7bdjjc4ykz5modeqxumfivm2e&unique=true&count=1" alt="Spotify Recently Played - Last Track" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y7bdjjc4ykz5modeqxumfivm2e&unique=true&count=1" alt="Spotify Recently Played - Last Track" />
 </div>
 
 ###
 
 <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
